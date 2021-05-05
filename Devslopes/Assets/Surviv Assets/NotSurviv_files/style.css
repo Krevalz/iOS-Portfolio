@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+#chat {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    min-width: 300px;
+    width: auto;
+    background-color: rgba(20, 20, 20, 0.5);
+    height: 30px;
+    border: 2px solid black;
+    color: white;
+}
+
+#chatDiv {
+    width: 300px;
+    position: absolute;
+    left: 0;
+    bottom: 30px;
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    max-height: 150px;
+    overflow-y: hidden;
+    background: transparent;
+}
