@@ -107,4 +107,4 @@ Devslope Projects
 
 Contact
 =======
-If you would like to learn more about these projects, please contact me at <joshua.ramos@unlv.edu>.
+If you would like to learn more about these projects, please contact me at <joshua.ramos.dev@gmail.com>.
